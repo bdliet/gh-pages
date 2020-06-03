@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>bdliet</title>
+    <link href="https://&quot;bdliet.github.io/ gh-pages&quot;/feed.xml" rel="self" />
+    <link href="https://&quot;bdliet.github.io/ gh-pages&quot;" />
+    <updated>2020-06-03T16:49:07+02:00</updated>
+    <author>
+        <name>bdliet</name>
+    </author>
+    <id>https://&quot;bdliet.github.io/ gh-pages&quot;</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>bdliet</name>
+        </author>
+        <link href="https://&quot;bdliet.github.io/ gh-pages&quot;/test.html"/>
+        <id>https://&quot;bdliet.github.io/ gh-pages&quot;/test.html</id>
+
+        <updated>2020-06-03T16:45:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
